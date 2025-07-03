@@ -10,23 +10,8 @@
     </parent>
 
     <groupId>com.farukgenc</groupId>
-    <artifactId>springboot-boilerplate</artifactId>
+    <artifactId>springboot</artifactId>
     <version>3.5.0</version>
-
-    <name>spring-boot-boilerplate</name>
-    <description>
-        Spring Boot Boilerplate is a starter kit.
-        This project includes : Spring Boot(3.5.0), Spring Data JPA, Spring Validation, Spring Security + JWT Token, PostgreSQL, Mapstruct, Lombok, Swagger (Open API)
-    </description>
-
-    <developers>
-        <developer>
-            <name>Faruk Genc</name>
-            <email>omer@farukgenc.com</email>
-            <url>https://farukgenc.com</url>
-        </developer>
-    </developers>
-
     <properties>
 
         <java.version>21</java.version>
