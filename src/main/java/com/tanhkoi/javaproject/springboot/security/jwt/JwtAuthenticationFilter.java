@@ -20,11 +20,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 import java.io.IOException;
 import java.util.Objects;
 
-/**
- * Created on Ağustos, 2020
- *
- * @author Faruk
- */
+
 @Slf4j
 @Service
 @RequiredArgsConstructor

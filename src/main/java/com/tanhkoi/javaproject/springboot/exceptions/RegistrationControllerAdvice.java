@@ -8,11 +8,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 import java.time.LocalDateTime;
 
-/**
- * Created on Ağustos, 2020
- *
- * @author Faruk
- */
+
 @RestControllerAdvice(basePackageClasses = RegistrationController.class)
 public class RegistrationControllerAdvice {
 

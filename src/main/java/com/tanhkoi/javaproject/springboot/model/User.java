@@ -1,13 +1,10 @@
 package com.tanhkoi.javaproject.springboot.model;
 
 import jakarta.persistence.*;
+import lombok.*;
 
 
-/**
- * Created on Ağustos, 2020
- *
- * @author Faruk
- */
+
 @Getter
 @Setter
 @Entity
